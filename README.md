@@ -71,6 +71,7 @@ We are not against forks, but please detach them from our repository. If you do 
 
         Select the [OpenGApps variant](https://github.com/opengapps/opengapps/wiki#variants) you like.
    - MindtheGapps
+    -Nikgapps
 
        There is no other variant we can choose.
 1. Select the root solution (none means no root)
